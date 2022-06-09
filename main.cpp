@@ -13,6 +13,7 @@
 
 #define SEALEVELPRESSURE_HPA (1013.25)
 
+//fix this later
 #define WIFI_SSID "WemosD1"
 #define WIFI_PASSWORD "123456789"
 #define API_KEY "AIzaSyD-d6NBZprdkXabaFzRbMXyyoLaDK263Kg"
