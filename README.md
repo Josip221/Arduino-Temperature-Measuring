@@ -8,3 +8,6 @@ Measurements are sent to a node js server, displayed on a react website and save
 
 ![image](https://user-images.githubusercontent.com/83918157/215276311-ebb25e9f-52c2-43a8-8af4-4000cae3e940.png)
 
+![image](https://user-images.githubusercontent.com/83918157/215276351-26ff2b7d-f928-4a4b-b2f0-6f05d335bbe4.png)
+
+
